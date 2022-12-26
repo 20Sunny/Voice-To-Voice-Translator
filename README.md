@@ -4,3 +4,4 @@
 ## pip install playsound
 ## pip install speech_recognition
 ## pip install gtts
+# then run the real-time.py in your code editior 
